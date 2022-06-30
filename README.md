@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyr1234&label=Profile%20views&color=0e75b6&style=flat" alt="kyr1234" /> </p>
 
-- 🔭 I’m currently working on **MERN Project**
 - ✔  Developed IRADA 2022[NATIONAL LEVEL TECH-FEST BY A INNOVATOR CLUB OF LDCE] WEBSITE : https://www.iradafestldce.com/  
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently Working and building project with *MERN STACK AND BLOCKCHAIN**
 
 - 👯 I’m looking to collaborate on **MERN , BLOCKCHAIN , DSA**
 
